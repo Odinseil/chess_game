@@ -1,3 +1,0 @@
-cd C:\Users\Lycée\Documents\Projet\Python\Jeu_echec_(en_cours)
-
-python -m pyxel edit jeu_echec.pyxres
